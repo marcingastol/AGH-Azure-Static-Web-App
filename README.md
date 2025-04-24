@@ -2,6 +2,8 @@ Poniżej znajdziesz przykładowy **README.md** (lub inny plik instrukcji), któr
 
 ---
 
+test
+
 # Warsztaty: Jak stworzyć własne CV i wdrożyć je na Azure Static Web Apps
 
 ## Spis treści
